@@ -13,7 +13,9 @@ PROJECT NAME : IIPS_INT_2131_PREDICTING LIFE EXPECTANCY USING MACHINE LEARNING
   
 2.PROJECT REQUIREMENTS:
     2.1: FUNCTIONAL REQUIREMENTS:
-    Predicting the life expectancy rate of a country.
+      Predicting the life expectancy rate of a country.
+      Creating the data model present on the database.
+      Merge the model to the edge devices.
     2.2 TECHINICAL REQUIREMENTS: 
     Python,IBM Cloud,IBM Watson.
     2.3 HARDWARE REQUIREMENTS:
